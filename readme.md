@@ -9,3 +9,7 @@ Creating a painting application with p5.js
     - set `display: block` to avoid scroll bars
     - use flexbox to center the sketch: `justify-content: center` for centering horizontally, `align-items: center` to center vertically.
     - [credit](https://github.com/processing/p5.js/wiki/Positioning-your-canvas)
+
+- use `mouseX` and `mouseY` to position circle on mouse position
+
+- use `mousePressed` to redraw the background upon user click (clear the drawing)
