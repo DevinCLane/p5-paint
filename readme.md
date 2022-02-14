@@ -1,6 +1,11 @@
 # p5 paint
 Creating a painting application with p5.js
 
+## How to use:
+
+- Move your mouse to paint
+- Click to erase canvas
+
 ## Learning Notes
 
 - Filling the entire window with the canvas (including variously sized browsers)
